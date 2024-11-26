@@ -20,3 +20,11 @@ Here are some ideas to get you started:
 ![Github lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ccapo&langs_count=6&layout=compact&theme=dark)
 
 ![Github trophies](https://github-profile-trophy.vercel.app/?username=ccapo&theme=dark&rank=SECRET,SSS,SS,S,AAA,AA,A)
+
+### Contributions
+* [bitcoin/**bitcoin**](https://github.com/bitcoin/bitcoin/commits?author=ccapo)
+* [motomux/**skrill-go**](https://github.com/motomux/skrill-go/commits?author=ccapo)
+* [brianvanleeuwen/**Halite-ML-starter-bot**](https://github.com/brianvanleeuwen/Halite-ML-starter-bot/commits?author=ccapo)
+* [HaliteChallenge/**Halite**](https://github.com/HaliteChallenge/Halite/commits?author=ccapo)
+* [actionhero/**node-resque**](https://github.com/actionhero/node-resque/commits?author=ccapo)
+* [actionhero/**actionhero**](https://github.com/actionhero/actionhero/commits?author=ccapo)
