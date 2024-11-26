@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### [Github Contributions](https://github.com/faheel/GitHub-contributions)
 * [bitcoin/**bitcoin**](https://github.com/bitcoin/bitcoin/pull/16024)
-* [motomux/**skrill-go**](https://github.com/motomux/skrill-go/commits?author=ccapo)
+* [motomux/**skrill-go**](https://github.com/motomux/skrill-go/pull/1)
 * [brianvanleeuwen/**Halite-ML-starter-bot**](https://github.com/brianvanleeuwen/Halite-ML-starter-bot/commits?author=ccapo)
 * [HaliteChallenge/**Halite**](https://github.com/HaliteChallenge/Halite/commits?author=ccapo)
 * [actionhero/**node-resque**](https://github.com/actionhero/node-resque/commits?author=ccapo)
